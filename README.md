@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-# SelfMusic
-=======
-# first_firebase_project
 
-A new Flutter project.
 
-## Getting Started
+![1](https://user-images.githubusercontent.com/71422583/124240230-673bf480-dacf-11eb-898d-87523b325b2b.png)
+![2](https://user-images.githubusercontent.com/71422583/124240232-67d48b00-dacf-11eb-9f49-b5d2e1f03cf7.png)
+![3](https://user-images.githubusercontent.com/71422583/124240236-67d48b00-dacf-11eb-848e-7ab1da3daa65.png)
+![4](https://user-images.githubusercontent.com/71422583/124240238-686d2180-dacf-11eb-822f-8007f7cce9bb.png)
+![5](https://user-images.githubusercontent.com/71422583/124240245-6a36e500-dacf-11eb-9922-0d1ceb09dee3.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> d9412be (Flutter Self Music App)
